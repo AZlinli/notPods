@@ -10,6 +10,7 @@ target 'cs' do
   pod 'Reachability'
   pod 'MJExtension'
   pod 'Masonry'
+  pod 'AFNetworking'
   # Pods for cs
 
   

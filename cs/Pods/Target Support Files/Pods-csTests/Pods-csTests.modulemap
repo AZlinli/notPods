@@ -1,6 +1,0 @@
-framework module Pods_csTests {
-  umbrella header "Pods-csTests-umbrella.h"
-
-  export *
-  module * { export * }
-}
